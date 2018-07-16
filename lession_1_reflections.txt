@@ -11,4 +11,4 @@ want to see the diffrence between two things use git diff
 first id commit is where we want to compare second id where we want to see the changes that 
 happend from the previous file.
 
-Made by hady
+Changed the name Of the author
