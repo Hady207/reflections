@@ -1,0 +1,14 @@
+well first dif helped in identifying and knowing the mistakes that can happen in the code
+FC in the command promt will help know all the mistakes that happens
+
+version controll allows me to add entire new feature in a code and if im not happy with the 
+viersion of code i can go back to the pervious version.
+
+adding a manuel commit gives a great felxiablity but also we need to time the commits right
+so its not too big or too small. 
+
+want to see the diffrence between two things use git diff 
+first id commit is where we want to compare second id where we want to see the changes that 
+happend from the previous file.
+
+Made by hady
